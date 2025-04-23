@@ -6,19 +6,29 @@ This project examines the potential microbial features in saliva samples that ca
 Source: NCBI SRA BioProject (PRJNA1150391)
 ## Data Processing
 16S rRNA sequences quality assessment with FastQC, QIIME2 and DADA2
+
 Taxonomic Classification and Microbiome diversity analysis among OSCC and Healthy groups
+
 Statistical analysis for differential abundance testing
+
 Random Forest-based machine learning for biomarker discovery
+
 
 ## Packages and Tools Used
 FASTQC and Trimmomatic for quality assessment and trimming
+
 QIIME2 and DADA2 for microbiome analysis
-Python 3.10 for statistical analysis, visualization and machine learning model with libraries: Pandas NumPy Matplotlib Plotly Seaborn Scikit-learn Statsmodels
+
+Python 3.10 for statistical analysis, visualization and machine learning model with libraries:
+Pandas NumPy Matplotlib Plotly Seaborn Scikit-learn Statsmodels
 
 ## Microbial Composition
 •	High abundance of Fusobacterium (5.5%) and Prevotella (2.5%) in OSCC group in terms of control 
+
 •	Both groups are dominated by Streptococcus (about 33%), but with greater abundance in control group
+
 •	Presence of Rothia (4.7%) and abundance of Neisseria (7.1%) in the control group
+
 •	Bacterial profiles compared to controls
 
 ## Statistical Analysis
@@ -37,5 +47,6 @@ o	Streptococcus and Gamella: Downregulated in Control group
 
 ## Contact
 Priya Banthia
+
 Email: priyabanthia01@gmail.com
 
