@@ -20,6 +20,7 @@ FASTQC and Trimmomatic for quality assessment and trimming
 QIIME2 and DADA2 for microbiome analysis
 
 Python 3.10 for statistical analysis, visualization and machine learning model with libraries:
+
 Pandas NumPy Matplotlib Plotly Seaborn Scikit-learn Statsmodels
 
 ## Microbial Composition
@@ -42,6 +43,7 @@ Pandas NumPy Matplotlib Plotly Seaborn Scikit-learn Statsmodels
 -	Potential Biomarker groups identified among the OSCC and Healthy control groups
 -	Machine Learning Model shows potential for future diagnostic application
 -	Identified key biomarkers:
+  
 o	Porphyromonas and Fusobacterium: Upregulated in OSCC group
 o	Streptococcus and Gamella: Downregulated in Control group
 
