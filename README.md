@@ -15,19 +15,19 @@ FASTQC and Trimmomatic for quality assessment and trimming
 QIIME2 and DADA2 for microbiome analysis
 Python 3.10 for statistical analysis, visualization and machine learning model with libraries: Pandas NumPy Matplotlib Plotly Seaborn Scikit-learn Statsmodels
 
-### Microbial Composition
+## Microbial Composition
 •	High abundance of Fusobacterium (5.5%) and Prevotella (2.5%) in OSCC group in terms of control 
 •	Both groups are dominated by Streptococcus (about 33%), but with greater abundance in control group
 •	Presence of Rothia (4.7%) and abundance of Neisseria (7.1%) in the control group
 •	Bacterial profiles compared to controls
 
-### Statistical Analysis
+## Statistical Analysis
 -	Statistical significance was not seen due to the presence of small dataset
 -	OSCC group indicates greater diversity than healthy control
 -	Random Forest ML model achieved AUC=1.00
 -	A loss of microbial evolutionary richness is detected
 
-### Results
+## Results
 
 -	Potential Biomarker groups identified among the OSCC and Healthy control groups
 -	Machine Learning Model shows potential for future diagnostic application
@@ -35,4 +35,7 @@ Python 3.10 for statistical analysis, visualization and machine learning model w
 o	Porphyromonas and Fusobacterium: Upregulated in OSCC group
 o	Streptococcus and Gamella: Downregulated in Control group
 
+## Contact
+Priya Banthia
+Email: priyabanthia01@gmail.com
 
