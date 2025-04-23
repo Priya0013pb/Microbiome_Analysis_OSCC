@@ -1,0 +1,132 @@
+Top Bacterial Phyla abundances:
+
+Control:
+Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus: 37.0%
+Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Mitochondria;g__Mitochondria: 8.6%
+Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria: 6.7%
+Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pasteurellaceae;g__Haemophilus: 4.9%
+Actinobacteriota;c__Actinobacteria;o__Micrococcales;f__Micrococcaceae;g__Rothia: 4.5%
+Firmicutes;c__Bacilli;o__Staphylococcales;f__Gemellaceae;g__Gemella: 3.4%
+Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Porphyromonas: 3.3%
+Fusobacteriota;c__Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae;g__Fusobacterium: 2.7%
+Fusobacteriota;c__Fusobacteriia;o__Fusobacteriales;f__Leptotrichiaceae;g__Leptotrichia: 2.6%
+Firmicutes;c__Negativicutes;o__Veillonellales-Selenomonadales;f__Veillonellaceae;g__Veillonella: 2.5%
+
+OSCC:
+Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus: 32.6%
+Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pasteurellaceae;g__Haemophilus: 6.3%
+Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Mitochondria;g__Mitochondria: 5.7%
+Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria: 5.3%
+Fusobacteriota;c__Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae;g__Fusobacterium: 5.3%
+Firmicutes;c__Bacilli;o__Staphylococcales;f__Gemellaceae;g__Gemella: 4.4%
+Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Porphyromonas: 3.0%
+Firmicutes;c__Negativicutes;o__Veillonellales-Selenomonadales;f__Veillonellaceae;g__Veillonella: 3.0%
+Fusobacteriota;c__Fusobacteriia;o__Fusobacteriales;f__Leptotrichiaceae;g__Leptotrichia: 2.9%
+Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella_7: 2.4%
+
+
+Top Bacterial Classes abundances:
+
+Control:
+Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus: 37.8%
+Alphaproteobacteria;o__Rickettsiales;f__Mitochondria;g__Mitochondria: 8.8%
+Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria: 6.9%
+Gammaproteobacteria;o__Enterobacterales;f__Pasteurellaceae;g__Haemophilus: 5.0%
+Actinobacteria;o__Micrococcales;f__Micrococcaceae;g__Rothia: 4.5%
+Bacilli;o__Staphylococcales;f__Gemellaceae;g__Gemella: 3.5%
+Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Porphyromonas: 3.4%
+Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae;g__Fusobacterium: 2.8%
+Fusobacteriia;o__Fusobacteriales;f__Leptotrichiaceae;g__Leptotrichia: 2.7%
+Negativicutes;o__Veillonellales-Selenomonadales;f__Veillonellaceae;g__Veillonella: 2.6%
+
+OSCC:
+Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus: 32.7%
+Gammaproteobacteria;o__Enterobacterales;f__Pasteurellaceae;g__Haemophilus: 6.3%
+Alphaproteobacteria;o__Rickettsiales;f__Mitochondria;g__Mitochondria: 5.7%
+Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria: 5.3%
+Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae;g__Fusobacterium: 5.3%
+Bacilli;o__Staphylococcales;f__Gemellaceae;g__Gemella: 4.4%
+Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Porphyromonas: 3.0%
+Negativicutes;o__Veillonellales-Selenomonadales;f__Veillonellaceae;g__Veillonella: 3.0%
+Fusobacteriia;o__Fusobacteriales;f__Leptotrichiaceae;g__Leptotrichia: 2.9%
+Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella_7: 2.5%
+
+
+Top Bacterial Orders abundances:
+
+Control:
+Lactobacillales;f__Streptococcaceae;g__Streptococcus: 37.9%
+Rickettsiales;f__Mitochondria;g__Mitochondria: 8.8%
+Burkholderiales;f__Neisseriaceae;g__Neisseria: 6.9%
+Enterobacterales;f__Pasteurellaceae;g__Haemophilus: 5.0%
+Micrococcales;f__Micrococcaceae;g__Rothia: 4.6%
+Staphylococcales;f__Gemellaceae;g__Gemella: 3.5%
+Bacteroidales;f__Porphyromonadaceae;g__Porphyromonas: 3.4%
+Fusobacteriales;f__Fusobacteriaceae;g__Fusobacterium: 2.8%
+Fusobacteriales;f__Leptotrichiaceae;g__Leptotrichia: 2.7%
+Veillonellales-Selenomonadales;f__Veillonellaceae;g__Veillonella: 2.6%
+
+OSCC:
+Lactobacillales;f__Streptococcaceae;g__Streptococcus: 32.7%
+Enterobacterales;f__Pasteurellaceae;g__Haemophilus: 6.3%
+Rickettsiales;f__Mitochondria;g__Mitochondria: 5.7%
+Burkholderiales;f__Neisseriaceae;g__Neisseria: 5.3%
+Fusobacteriales;f__Fusobacteriaceae;g__Fusobacterium: 5.3%
+Staphylococcales;f__Gemellaceae;g__Gemella: 4.4%
+Bacteroidales;f__Porphyromonadaceae;g__Porphyromonas: 3.0%
+Veillonellales-Selenomonadales;f__Veillonellaceae;g__Veillonella: 3.0%
+Fusobacteriales;f__Leptotrichiaceae;g__Leptotrichia: 2.9%
+Bacteroidales;f__Prevotellaceae;g__Prevotella_7: 2.5%
+
+
+Top Bacterial Families abundances:
+
+Control:
+Streptococcaceae;g__Streptococcus: 38.6%
+Mitochondria;g__Mitochondria: 9.0%
+Neisseriaceae;g__Neisseria: 7.0%
+Pasteurellaceae;g__Haemophilus: 5.1%
+Micrococcaceae;g__Rothia: 4.6%
+Gemellaceae;g__Gemella: 3.6%
+Porphyromonadaceae;g__Porphyromonas: 3.5%
+Fusobacteriaceae;g__Fusobacterium: 2.8%
+Leptotrichiaceae;g__Leptotrichia: 2.8%
+Veillonellaceae;g__Veillonella: 2.6%
+
+OSCC:
+Streptococcaceae;g__Streptococcus: 33.0%
+Pasteurellaceae;g__Haemophilus: 6.4%
+Mitochondria;g__Mitochondria: 5.8%
+Neisseriaceae;g__Neisseria: 5.4%
+Fusobacteriaceae;g__Fusobacterium: 5.4%
+Gemellaceae;g__Gemella: 4.5%
+Porphyromonadaceae;g__Porphyromonas: 3.1%
+Veillonellaceae;g__Veillonella: 3.0%
+Leptotrichiaceae;g__Leptotrichia: 2.9%
+Prevotellaceae;g__Prevotella_7: 2.5%
+
+Top Bacterial Genera abundances:
+
+Control:
+Streptococcus: 39.0%
+Mitochondria: 9.1%
+Neisseria: 7.1%
+Haemophilus: 5.2%
+Rothia: 4.7%
+Gemella: 3.6%
+Porphyromonas: 3.5%
+Fusobacterium: 2.8%
+Leptotrichia: 2.8%
+Veillonella: 2.7%
+
+OSCC:
+Streptococcus: 33.8%
+Haemophilus: 6.5%
+Mitochondria: 5.9%
+Neisseria: 5.5%
+Fusobacterium: 5.5%
+Gemella: 4.6%
+Porphyromonas: 3.1%
+Veillonella: 3.1%
+Leptotrichia: 3.0%
+Prevotella_7: 2.5%
